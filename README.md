@@ -99,7 +99,6 @@ rasg/
 > 📸 
 <img width="1241" height="756" alt="Screenshot 2026-01-22 170634" src="https://github.com/user-attachments/assets/7fbb777d-4dae-4f97-a95d-0740acfe9c40" />
 <img width="1193" height="857" alt="Screenshot 2026-01-22 170704" src="https://github.com/user-attachments/assets/03a75183-e44c-48ff-9f25-cc302a1346e7" />
-<img width="1176" height="609" alt="Screenshot 2026-01-22 170711" src="https://github.com/user-attachments/assets/c776e7ae-7adb-409a-b098-318caf6105b9" />
 
 
 
