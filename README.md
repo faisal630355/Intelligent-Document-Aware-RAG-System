@@ -225,4 +225,5 @@ curl -X POST "http://localhost:8000/query" \
 7. **Evaluate** – Run bias templates and log outputs
 
 ---
-Made by Faisal Durrani
+## Built by
+Faisal Durrani  
