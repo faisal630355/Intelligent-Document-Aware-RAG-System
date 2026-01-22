@@ -1,0 +1,2 @@
+Paper: Responsible AI
+Abstract: This paper explores fairness metrics and bias mitigation in language models. We evaluate demographic parity and disparate impact, and propose mitigation techniques.
